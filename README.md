@@ -13,6 +13,7 @@ This repository contains:
   4. Certificate 2            : Journey to cloud - Envisioning your solution.pdf
   5. Certificate 3            : RAG_SkillsBuild.pdf
   6. Problem sratements       : Problem Statements.pdf
+  7. Jupyter Notebook         : **LearnMate_Jupyter_NoteBook.ipynb**
 
 ___________________________________________________________________________________
 
